@@ -1,0 +1,43 @@
+Use meaningful and descriptive names for variables, functions, and classes.
+
+Follow consistent naming conventions 
+
+Keep one class per file whenever possible.
+
+Use header guards or #pragma once in header files.
+
+Maintain consistent indentation (prefer 4 spaces).
+
+Follow a consistent brace style throughout the project.
+
+Keep functions small and focused on a single responsibility.
+
+Avoid deep nesting by using early returns.
+
+Make data members private and expose only necessary interfaces.
+
+Use const wherever possible to prevent unintended modification.
+
+Avoid global variables.
+
+Use meaningful and clear comments explaining intent (why, not what).
+
+Remove unused code and commented-out blocks before committing
+
+Handle errors properly using exceptions or error codes.
+
+Follow SOLID principles in object-oriented design.
+
+Mark overridden functions with the override keyword.
+
+Use consistent spacing around operators and keywords.
+
+Write modular and reusable code.
+
+Write meaningful commit messages in version control.
+
+Avoid unnecessary use of using namespace std; in header files.
+
+Maintain consistent project folder structure.
+
+Write code that is easy to read before making it clever.
